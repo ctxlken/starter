@@ -13,7 +13,7 @@ Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed cons
 
 ## Let's Get to the Tests!
 
-Here is a new paragraph wit some new info.  Let's try to _italicize some stuff_, and also, let's try to **bold some stuff**.  Oh, and here is an external [link to google](http://www.google.com "Link to Google.com").  And an internal link to [About](/starter/about/).
+Here is a new paragraph wit some new info.  Let's try to _italicize some stuff_, and also, let's try to **bold some stuff**.  Oh, and here is an external [link to google](http://www.google.com ).  And an internal link to [About](/starter/about/).
 
 ### Other Tests
 
